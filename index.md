@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages, Bani!
 
 You can use the [editor on GitHub](https://github.com/Abhinav271828/testsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Check out the sequence [0,1,0,2,0,1,0,3..]! It's cool!
 
 ### Jekyll Themes
 
