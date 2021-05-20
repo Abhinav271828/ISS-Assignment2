@@ -1,6 +1,6 @@
 ---
 title: PAGE TITLE
-layout: page
+layout: blog_index
 ---
 
 # This Could Work as a Blog!
