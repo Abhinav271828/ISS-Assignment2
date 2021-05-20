@@ -1,6 +1,7 @@
 ---
 title: PAGE TITLE
 layout: blog_index
+permalink: /test2/
 ---
 
 # This Could Work as a Blog!
