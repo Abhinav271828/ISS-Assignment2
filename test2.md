@@ -1,7 +1,6 @@
 ---
+title: PAGE TITLE
 layout: page
-title: "PAGE TITLE"
-permalink: /test2/
 ---
 
 # This Could Work as a Blog!
